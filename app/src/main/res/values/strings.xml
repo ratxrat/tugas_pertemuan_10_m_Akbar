@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myliblary</string>
+    <string name="nama_yangakan_di_masukan_ke_sqlite">Nama Yangakan Di Masukan Ke SQLite</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="simpan">Simpan</string>
+    <string name="tampilkan_semua_data">tampilkan semua data</string>
+</resources>
